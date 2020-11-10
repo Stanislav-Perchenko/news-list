@@ -1,6 +1,6 @@
-# lesson_2_1
+# Example 1 - News list
 
-A new Flutter application.
+A Flutter application that demonstrates static News list.
 
 ## Getting Started
 
